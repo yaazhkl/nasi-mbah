@@ -1,0 +1,70 @@
+{
+    "menu" : [
+          {
+    "title": "Ayam Serundeng",
+    "price": 8000,
+    "image": "/src/assets/ayam-serundeng.jpg",
+    "description": "Ayam goreng rempah dengan taburan kelapa serundeng gurih."
+  },
+  {
+    "title": "Telur Balado",
+    "price": 5000,
+    "image": "/src/assets/telur-balado.jpg",
+    "description": "Telur berbumbu sambal balado pedas manis."
+  },
+  {
+    "title": "Kwetiau Goreng",
+    "price": 5000,
+    "image": "/src/assets/kwetiau-goreng.jpg",
+    "description": "Kwetiau tumis gurih dengan kecap dan sayuran."
+  },
+  {
+    "title": "Ikan Mas Bumbu Kuning",
+    "price": 5000,
+    "image": "/src/assets/ikan-mas-kuning.jpg",
+    "description": "Ikan mas dengan kuah kunyit dan rempah khas Sunda."
+  },
+  {
+    "title": "Pindang Balado",
+    "price": 5000,
+    "image": "/src/assets/pindang-balado.jpg",
+    "description": "Ikan pindang pedas dengan sambal balado khas rumahan."
+  },
+  {
+    "title": "Sayur Nangka",
+    "price": 5000,
+    "image": "/src/assets/sayur-nangka.jpg",
+    "description": "Gulai nangka muda dengan santan dan rempah Nusantara."
+  },
+  {
+    "title": "Sayur Sop",
+    "price": 5000,
+    "image": "/src/assets/sayur-sop.jpg",
+    "description": "Sup sayuran hangat dengan rasa ringan dan segar."
+  },
+  {
+    "title": "Semur Jengkol",
+    "price": 5000,
+    "image": "/src/assets/semur-jengkol.jpg",
+    "description": "Jengkol empuk dengan kuah semur kecap rempah."
+  },
+  {
+    "title": "Tumis Tahu Toge",
+    "price": 5000,
+    "image": "/src/assets/tumis-tahu-toge.jpg",
+    "description": "Tumisan sederhana yang gurih dan sehat."
+  },
+  {
+    "title": "Tumis Tempe Buncis",
+    "price": 5000,
+    "image": "/src/assets/tumis-tempe-buncis.jpg",
+    "description": "Tempe dan buncis tumis gurih pedas manis."
+  },
+  {
+    "title": "Tahu Bacem",
+    "price": 5000,
+    "image": "/src/assets/tahu-bacem.jpg",
+    "description": "Tahu manis gurih khas Jawa dengan bumbu meresap."
+  }
+    ]
+}
