@@ -1,13 +1,12 @@
 <script setup lang="ts">
 
 
-
 </script>
 
 <template>
 <!-- Hero Section -->
 <section 
-  class="h-screen bg-cover bg-center flex items-center" style="background-image: url('/src/assets/hero-image.jpg')">
+  class="h-screen bg-cover bg-center flex items-center" style="background-image: url('/hero-image.jpg')">
   <!-- Overlay -->
   <div class="absolute inset-0 bg-black/80 h-[585px]"></div>
 
