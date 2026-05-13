@@ -7,19 +7,19 @@ import MenuCard from '../menu/MenuCard.vue';
     {
     title: 'Ayam Serundeng',
     price: 8000,
-    image: '/src/assets/ayam-serundeng.jpg',
+    image: '/ayam-serundeng.jpg',
     description: 'Ayam goreng rempah dengan taburan kelapa serundeng gurih.'
   },
   {
     title: 'Telur Balado',
     price: 5000,
-    image: '/src/assets/telur-balado.jpg',
+    image: '/telur-balado.jpg',
     description: 'Telur berbumbu sambal balado pedas manis.'
   },
     {
     title: 'Kwetiau Goreng',
     price: 5000,
-    image: '/src/assets/kwetiau-goreng.jpg',
+    image: '/kwetiau-goreng.jpg',
     description: 'Kwetiau tumis gurih dengan kecap dan sayuran.'
   }
 ];
