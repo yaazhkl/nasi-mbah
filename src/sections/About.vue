@@ -12,7 +12,7 @@
 
         <div class="md:w-1/3 w-full flex justify-center">
             <img 
-                src="/src/assets/about-image.jpg"
+                src="/about-image.jpg"
                 class="h-84 w-92 object-cover rounded-lg shadow-lg"
                 alt=""
             >
